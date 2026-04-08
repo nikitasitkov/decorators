@@ -1,5 +1,0 @@
-2026-04-08 08:39:35.491254 | function: hello_world | args: () | kwargs: {} | result: Hello World
-2026-04-08 08:39:35.491385 | function: summator | args: (2, 2) | kwargs: {} | result: 4
-2026-04-08 08:39:35.491432 | function: div | args: (6, 2) | kwargs: {} | result: 3.0
-2026-04-08 08:39:35.491470 | function: summator | args: (4.3,) | kwargs: {'b': 2.2} | result: 6.5
-2026-04-08 08:39:35.491503 | function: summator | args: () | kwargs: {'a': 0, 'b': 0} | result: 0
