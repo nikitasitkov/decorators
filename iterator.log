@@ -1,0 +1,24 @@
+2026-04-08 08:43:57.513068 | function: __iter__ | args: (<__main__.FlatIterator object at 0x1047eb0e0>,) | kwargs: {} | result: <__main__.FlatIterator object at 0x1047eb0e0>
+2026-04-08 08:43:57.513232 | function: __next__ | args: (<__main__.FlatIterator object at 0x1047eb0e0>,) | kwargs: {} | result: a
+2026-04-08 08:43:57.513292 | function: __next__ | args: (<__main__.FlatIterator object at 0x1047eb0e0>,) | kwargs: {} | result: b
+2026-04-08 08:43:57.513335 | function: __next__ | args: (<__main__.FlatIterator object at 0x1047eb0e0>,) | kwargs: {} | result: c
+2026-04-08 08:43:57.513374 | function: __next__ | args: (<__main__.FlatIterator object at 0x1047eb0e0>,) | kwargs: {} | result: d
+2026-04-08 08:43:57.513409 | function: __next__ | args: (<__main__.FlatIterator object at 0x1047eb0e0>,) | kwargs: {} | result: e
+2026-04-08 08:43:57.513442 | function: __next__ | args: (<__main__.FlatIterator object at 0x1047eb0e0>,) | kwargs: {} | result: f
+2026-04-08 08:43:57.513474 | function: __next__ | args: (<__main__.FlatIterator object at 0x1047eb0e0>,) | kwargs: {} | result: h
+2026-04-08 08:43:57.513505 | function: __next__ | args: (<__main__.FlatIterator object at 0x1047eb0e0>,) | kwargs: {} | result: False
+2026-04-08 08:43:57.513540 | function: __next__ | args: (<__main__.FlatIterator object at 0x1047eb0e0>,) | kwargs: {} | result: 1
+2026-04-08 08:43:57.513571 | function: __next__ | args: (<__main__.FlatIterator object at 0x1047eb0e0>,) | kwargs: {} | result: 2
+2026-04-08 08:43:57.513601 | function: __next__ | args: (<__main__.FlatIterator object at 0x1047eb0e0>,) | kwargs: {} | result: None
+2026-04-08 08:43:57.513636 | function: __iter__ | args: (<__main__.FlatIterator object at 0x1052a51d0>,) | kwargs: {} | result: <__main__.FlatIterator object at 0x1052a51d0>
+2026-04-08 08:43:57.513666 | function: __next__ | args: (<__main__.FlatIterator object at 0x1052a51d0>,) | kwargs: {} | result: a
+2026-04-08 08:43:57.513698 | function: __next__ | args: (<__main__.FlatIterator object at 0x1052a51d0>,) | kwargs: {} | result: b
+2026-04-08 08:43:57.513727 | function: __next__ | args: (<__main__.FlatIterator object at 0x1052a51d0>,) | kwargs: {} | result: c
+2026-04-08 08:43:57.513758 | function: __next__ | args: (<__main__.FlatIterator object at 0x1052a51d0>,) | kwargs: {} | result: d
+2026-04-08 08:43:57.513787 | function: __next__ | args: (<__main__.FlatIterator object at 0x1052a51d0>,) | kwargs: {} | result: e
+2026-04-08 08:43:57.513817 | function: __next__ | args: (<__main__.FlatIterator object at 0x1052a51d0>,) | kwargs: {} | result: f
+2026-04-08 08:43:57.513846 | function: __next__ | args: (<__main__.FlatIterator object at 0x1052a51d0>,) | kwargs: {} | result: h
+2026-04-08 08:43:57.513875 | function: __next__ | args: (<__main__.FlatIterator object at 0x1052a51d0>,) | kwargs: {} | result: False
+2026-04-08 08:43:57.513905 | function: __next__ | args: (<__main__.FlatIterator object at 0x1052a51d0>,) | kwargs: {} | result: 1
+2026-04-08 08:43:57.513934 | function: __next__ | args: (<__main__.FlatIterator object at 0x1052a51d0>,) | kwargs: {} | result: 2
+2026-04-08 08:43:57.513964 | function: __next__ | args: (<__main__.FlatIterator object at 0x1052a51d0>,) | kwargs: {} | result: None
